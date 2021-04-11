@@ -2,6 +2,7 @@
 # Utilisation de TensorBoard : https://learnopencv.com/tensorboard-with-pytorch-lightning/
 # C'est du transfert learning depuis un Resnet18
 # Les informations sont loggées via TensorBoardLogger dans le répertoire tb_logs
+#
 
 import torch
 from pytorch_lightning.callbacks import ModelCheckpoint
